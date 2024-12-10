@@ -1,0 +1,22 @@
+{
+    "Settings": "Paramètres",
+    "Welcome Back!": "Bon retour!",
+    "You've been missed!": "Vous nous avez manqué!",
+    "Let's sign you in.": "Connectons-vous.",
+    "Email": "E-mail",
+    "Please enter your email": "Veuillez entrer votre e-mail",
+    "Password": "Mot de passe",
+    "Please enter your password": "Veuillez entrer votre mot de passe",
+    "Login": "Se connecter",
+    "Login is successful": "Connexion réussie",
+    "Invalid email or password": "E-mail ou mot de passe invalide",
+    "Don't have an account? Sign Up": "Vous n'avez pas de compte? Inscrivez-vous",
+    "English": "Anglais",
+    "Arabic": "Arabe",
+    "French": "Français",
+    "German": "Allemand",
+    "Create New Account": "Créer un nouveau compte",
+    "SignUp": "S'inscrire",
+    "Sign Up is Successful": "Inscription réussie",
+    "Already have an account? Login!": "Vous avez déjà un compte? Connectez-vous!"
+}

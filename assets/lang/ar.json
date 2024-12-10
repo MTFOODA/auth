@@ -1,0 +1,22 @@
+{
+    "Settings": "الاعدادات",
+    "Welcome Back!": "مرحباً بعودتك!",
+    "You've been missed!": "اشتقنا لك!",
+    "Let's Sign you in.": "خلينا نسجل دخولك.",
+    "Email": "البريد الإلكتروني",
+    "Please enter your email": "يرجى إدخال بريدك الإلكتروني",
+    "Password": "كلمة المرور",
+    "Please enter your password": "يرجى إدخال كلمة المرور",
+    "Login": "تسجيل الدخول",
+    "Login is successful": "تم تسجيل الدخول بنجاح",
+    "Invalid email or password": "البريد الإلكتروني أو كلمة المرور غير صحيحة",
+    "Don't have an account? Sign Up": "لا تمتلك حسابًا؟ سجل الآن",
+    "English": "إنجليزي",
+    "Arabic": "عربي",
+    "French": "فرنسي",
+    "German": "ألماني",
+    "Create New Account": "إنشاء حساب جديد",
+    "SignUp": "التسجيل",
+    "Sign Up is Successful": "تم التسجيل بنجاح",
+    "Already have an account? Login!": "هل لديك حساب بالفعل؟ سجل الدخول!"
+}
