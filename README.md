@@ -1,3 +1,3 @@
-# flutter_application_5
+# auth flutter app
 
 A new Flutter project.
